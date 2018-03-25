@@ -1,4 +1,5 @@
 {
+	"enableSassCompilation": true,
 	"publicDomains": [
 		"poliesterpelegrina.cat"
 	]
